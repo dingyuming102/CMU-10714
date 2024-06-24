@@ -1,0 +1,1 @@
+-isystem /usr/include/python3.10 -isystem "/usr/local/lib/python3.10/dist-packages/pybind11/include" -isystem /usr/local/cuda/include
